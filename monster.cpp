@@ -47,7 +47,7 @@ void Monster::handleSpaceEvent(Player* player)
         else
         {
             std::cout << "You attempt to shoot at the monster, but you do not have enough rounds to kill it..." << std::endl;
-            player->setAlive(false);
+            player->setAlive(false);        // "kill" player
         }
 
         visited = true;

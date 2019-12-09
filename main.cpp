@@ -2,7 +2,7 @@
  * Program Name: Final Project - Dark Labrainth
  * Author: Tyler Betley
  * Date: 12/10/2019
- * Description: Main program file for fCS162 Final Project, Dark Labarinth.
+ * Description: Main program file for CS162 Final Project, Dark Labyrinth.
  *      This game uses linked spaces to create maze-like escape game, where the
  *      player is racing against the clock to exit the labrinth
 *********************************************/

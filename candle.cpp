@@ -14,7 +14,7 @@
 **************************************************/
 Candle::Candle()
 {
-    setAmount(10); // initial turn time of 10
+    setAmount(12); // initial turn time of 10
 }
 
 

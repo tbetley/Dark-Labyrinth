@@ -146,7 +146,6 @@ void Game::run()
                         prevPlayerSpacePtr = playerSpacePtr; // update previous pointer
                     }
                     
-                    
                 }
             }
 

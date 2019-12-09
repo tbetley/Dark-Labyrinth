@@ -17,7 +17,7 @@ int Menu::startMenu()
     int choice;
     do
     {
-        std::cout << "\n" << "Dark Labarinth" << std::endl;
+        std::cout << "\n" << "Dark Labyrinth" << std::endl;
         std::cout << "1) Play" << std::endl;
         std::cout << "2) Quit" << std::endl;
         std::cout << "Enter Your Choice: ";

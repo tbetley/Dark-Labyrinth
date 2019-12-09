@@ -21,6 +21,7 @@ Player::Player()
 
     // set life
     setAlive(true);
+    setEscaped(false);
 
 }
 

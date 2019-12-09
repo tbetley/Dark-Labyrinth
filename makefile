@@ -1,6 +1,6 @@
 # Author: Tyler Betley
 # Date: 11/24/19
-# Makefile for CS162 Final Project - Dark Labarinth
+# Makefile for CS162 Final Project - Dark Labyrinth
 
 CXX = g++
 CXXFLAGS = -std=c++0x
