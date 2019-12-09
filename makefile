@@ -25,4 +25,4 @@ clean:
 	rm *.o finalProject
 
 zip: 
-	zip -D FinalProject_Betley_Tyler.zip ${HEADERS} ${SRCS} makefile Design_Document.pdf
+	zip -D FinalProject_Betley_Tyler.zip ${HEADERS} ${SRCS} makefile
